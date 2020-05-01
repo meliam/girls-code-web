@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Girls Code
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Quiénes Somos
+  description: Buscamos la inclusión digital de mujeres en las áreas de STEAM en todo Paraguay con espacios de aprendizaje en base a nuestros valores.
+  logo: girls
+  link: /team
+  label: Equipo
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
